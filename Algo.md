@@ -9,9 +9,9 @@
 ## Searching
 - Linear Search ✔️
   - Sentinel Search ✔️ 
-- Binary Search ✔️ [recursion] rev.1
-- Jump Search ⏳
-- Interpolation Search ⏳
+- Binary Search ✔️ [recursion] rev.01
+- Jump Search ✔️
+- Interpolation Search ✔️ [recursion]
 - Exponential Search ⏳
 - Fibonacci Search ⏳
 - Ternary Search ⏳
