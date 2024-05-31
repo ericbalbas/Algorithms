@@ -9,7 +9,7 @@
 ## Searching
 - Linear Search ✔️
   - Sentinel Search ✔️ 
-- Binary Search ✔️ [recursion]
+- Binary Search ✔️ [recursion] rev.1
 - Jump Search ⏳
 - Interpolation Search ⏳
 - Exponential Search ⏳
