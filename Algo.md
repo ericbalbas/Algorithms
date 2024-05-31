@@ -11,7 +11,7 @@
   - Sentinel Search ✔️ 
 - Binary Search ✔️ [recursion] rev.01
 - Jump Search ✔️
-- Interpolation Search ⏳
+- Interpolation Search ✔️ [recursion]
 - Exponential Search ⏳
 - Fibonacci Search ⏳
 - Ternary Search ⏳
