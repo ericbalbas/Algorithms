@@ -15,6 +15,6 @@
 - Interpolation Search ✔️ [recursion]
 - Exponential Search ✔️ [recursion]
 - Fibonacci Search ✔️ [recursion]
-- Ternary Search ⏳
+- Ternary Search ✔️ [recursion]
 - Sublist Search ⏳
 - BST Search ⏳
