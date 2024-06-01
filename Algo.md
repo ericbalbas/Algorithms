@@ -1,5 +1,6 @@
 # Data Structures 
-# Eric John Balbas
+### Eric John Balbas - Computer Programmer
+#### 2024-06
 
 ## Linked Lists
 - Singly Linked List ✔️
@@ -12,9 +13,8 @@
 - Binary Search ✔️ [recursion] rev.01
 - Jump Search ✔️
 - Interpolation Search ✔️ [recursion]
-- Exponential Search ⏳
-- Fibonacci Search ⏳
+- Exponential Search ✔️ [recursion]
+- Fibonacci Search ✔️ [recursion]
 - Ternary Search ⏳
 - Sublist Search ⏳
-- Search in a Rotated Sorted Array ⏳
 - BST Search ⏳

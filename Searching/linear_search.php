@@ -1,6 +1,6 @@
 <?php
 
-function search(array $array, $target)
+function liner_search(array $array, $target)
 {
     foreach($array as $key => $value)
     {
@@ -12,7 +12,7 @@ function search(array $array, $target)
 
 $array = [1,2,3,4,5];
 
-$result = search($array, 4);
+$result = liner_search($array, 4);
 
 echo $result;
 

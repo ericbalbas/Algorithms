@@ -1,5 +1,5 @@
 <?php
-function search(array $arr, $target)
+function sentinel_search(array $arr, $target)
 {
     $arr [] = $target;  // append to the last;
 
@@ -14,5 +14,5 @@ function search(array $arr, $target)
 
 $array = [12,34,53,46,75,34];
 
-echo search($array, 53);
+echo sentinel_search($array, 53);
 ?>
