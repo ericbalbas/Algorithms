@@ -2,6 +2,9 @@
 ### Eric John Balbas - Computer Programmer
 #### 2024-06
 
+⏳ - ongoing
+✔️- done
+
 ## Linked Lists
 - Singly Linked List ✔️
   - A linear data structure where each element points to the next, forming a sequence.
@@ -31,5 +34,21 @@
   - An algorithm to check if one list is a sublist of another, implemented using object-oriented programming.
 
 ## Trees
-- Binary Search Tree ⏳
+- Binary Search Tree ✔️ *(OOP)* *(recursion)*
   - A tree data structure where each node has at most two children, with the left child containing values less than the parent and the right child containing values greater.
+
+## Graph 
+- Depth-First Search (DFS) ⏳
+  - Explores nodes deeply before backtracking.
+- Breadth-First Search (BFS) 
+  - Explores nodes level by level.
+- Dijkstra's Algorithm ⏳
+  - Finds the shortest path in weighted graphs with non-negative weights.
+- Kruskal's Algorithm  ⏳
+  - Finds the Minimum Spanning Tree (MST) of a graph.
+- Prim's Algorithm ⏳
+  - Another algorithm for finding the MST of a graph.
+- Bellman-Ford Algorithm ⏳
+  - Finds the shortest paths from a single source vertex to all others in graphs with negative weights.
+- Floyd-Warshall Algorithm ⏳
+  - Computes shortest paths between all pairs of vertices.
